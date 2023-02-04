@@ -1,0 +1,5 @@
+commit 978a59e9e2c43cdff653bf0e34ca19f646b1cc9e
+Author: Nomathwords <hunterdevoe3@gmail.com>
+Date:   Fri Feb 3 18:15:16 2023 -0600
+
+    A simple R function with a list output
